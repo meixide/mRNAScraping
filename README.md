@@ -1,2 +1,2 @@
 # mRNAScraping
-Direct access to NCBI and automatic protein transcription of a given sequence of codons. 
+Direct access to NCBI and automatic protein transcription of a given sequence of codons, w/ SirUseless
